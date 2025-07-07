@@ -6,13 +6,13 @@ This repository aims to deliver easy-to-manufacture prototyping boards, which en
 
 ## Examples
 
-|No.|Example|Link| Applications|
-|---|-------|----|-------------|
-|   |       |    |             |
+|No. | Example | Link | Applications
+|:---:|:-------:|:----:|:----:
+| 1 | boltON Extension Board | [boltON](./boltON_extension_board/) | To be updated
 
-## Reporting Bugs/Issues and Posting Questions and Comments
+## Reporting Defects/Issues and Posting Questions and Comments
 
-To report bugs in the SiliconLabs Open 3D Print Prototypes, please create a new "Issue" in the "Issues" section of this repo. Please reference the board, project, and source files associated with the bug, and reference line numbers. If you are proposing a fix, also include information on the proposed fix. Since these examples are provided as-is, there is no guarantee that these examples will be updated to fix these issues.
+To report defects in the SiliconLabs Open PCB/PCBA Prototypes, please create a new "Issue" in the "Issues" section of this repo. Please reference the board, project, and design files associated with the defect, and reference line numbers. If you are proposing a fix, also include information on the proposed fix. Since these examples are provided as-is, there is no guarantee that these examples will be updated to fix these issues.
 
 Questions and comments related to these examples should be made by creating a new "Issue" in the "Issues" section of this repo.
 
