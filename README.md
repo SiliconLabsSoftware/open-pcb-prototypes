@@ -8,7 +8,7 @@ This repository aims to deliver easy-to-manufacture prototyping boards, which en
 
 |No. | Example | Link | Applications
 |:---:|:-------:|:----:|:----:
-| 1 | boltON Extension Board | [boltON](./boltON_extension_board/) | To be updated
+| 1 | boltON Extension Board | [boltON](./boltON_extension_board/) | [boltON Application Examples](https://github.com/SiliconLabsSoftware/boltON)
 
 ## Reporting Defects/Issues and Posting Questions and Comments
 

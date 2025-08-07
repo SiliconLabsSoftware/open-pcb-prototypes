@@ -22,7 +22,7 @@ The hardware is an open-source Arduino Uno shield form factor PCB, which can be 
   - [PCB/PCBA Order File](#pcbpcba-order-file)
 - [User's Guide](#users-guide)
   - [Hardware Installation Guide](#hardware-installation-guide)
-  - [Examples](#examples)
+  - [Software Guide](#software-guide)
 - [Report Defects & Get Support](#report-defects--get-support)
 
 ---
@@ -118,20 +118,9 @@ You can conveniently order the PCB/PCBA through JLCPCB using EasyEDA, ensuring t
 | Choose Rx Pin with Shunt Connector | ![alt text](image/choose_RX_pin.png) |
 | Choose a logic voltage for Host board (3.3V or 5V) with Shunt Connector  | ![alt text](image/choose_voltage_level.png) |
 
-### Examples ###
+### Software Guide ###
 
-The following projects have been successfully validated with the Silicon Labs boltON board:
-
-- **NCP Host** (STM32 Nucleo F411RE, STM32 Nucleo H743ZI2)
-- **NCP Commander** (STM32 Nucleo F411RE)
-- **BLE Blinky** (STM32 Nucleo F411RE)
-- **SPP (Serial Port Profile)** (STM32 Nucleo F411RE)
-
-These examples demonstrate various wireless communication scenarios and serve as reference implementations for integrating the boltON board with supported host platforms.
-
-> [!NOTE]
->
-> The list of examples is updated frequently.
+For detailed instructions on setting up and experimenting with the boltON module, please refer to the [boltON Software Examples repository](https://github.com/SiliconLabsSoftware/boltON). This resource provides comprehensive guides and example projects to help you get started with boltON software integration.
 
 ---
 
