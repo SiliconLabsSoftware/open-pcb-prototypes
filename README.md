@@ -9,10 +9,11 @@ This repository aims to deliver easy-to-manufacture prototyping boards, which en
 |No. | Example | Applications
 |:---:|:-------|:----|
 | 1 | [boltON](./boltON_extension_board/) | [boltON Application Examples](https://github.com/SiliconLabsSoftware/boltON)
-| 2 | [MIDI Cable Replacement Board](./midi_cable_replacement_board/) | [MIDI BLE to DIN Bridge](https://github.com/SiliconLabs/arduino/tree/main/libraries/SilabsBLEMIDI/examples/MIDI_BLE_to_DIN) <br> [MIDI DIN to BLE Bridge](https://github.com/SiliconLabs/arduino/tree/main/libraries/SilabsBLEMIDI/examples/MIDI_DIN_to_BLE)
+| 2 | [MIDI Cable Replacement Board](./midi_cable_replacement_board/) | [Arduino - MIDI BLE to DIN Bridge](https://github.com/SiliconLabs/arduino/tree/main/libraries/SilabsBLEMIDI/examples/MIDI_BLE_to_DIN) <br> [Arduino - MIDI DIN to BLE Bridge](https://github.com/SiliconLabs/arduino/tree/main/libraries/SilabsBLEMIDI/examples/MIDI_DIN_to_BLE)
 | 3 | [Si917 Controller Board](./si917_controller_board/) | N/A
 | 4 | [Breakout Adapter For Radio Board](./breakout_adapter_for_radio_boards/) | N/A
 | 5 | [Breakout Adapter For Radio Board With Power](./breakout_adapter_for_radio_boards_with_power/) | N/A
+| 6 | [Joule Scope Extension Board](./joule_scope_extension_board/) | N/A |
 
 
 ## Reporting Defects/Issues and Posting Questions and Comments

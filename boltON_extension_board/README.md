@@ -15,8 +15,8 @@ The hardware is an open-source Arduino Uno shield form factor PCB, which can be 
 - [Hardware Overview](#hardware-overview)
   - [Feature](#feature)
 - [Prerequisites](#prerequisites)
-  - [Hardwares](#hardwares)
-  - [Softwares](#software)
+  - [Hardware](#hardwares)
+  - [Software](#software)
 - [What is included in the boltON project](#what-is-included-in-the-bolton-project)
   - [Design](#design)
   - [PCB/PCBA Order File](#pcbpcba-order-file)
@@ -49,7 +49,7 @@ The hardware is an open-source Arduino Uno shield form factor PCB, which can be 
 
 ## Prerequisites ##
 
-### Hardwares ###
+### Hardware ###
 
 - [Position Shunt Connector](https://www.digikey.hk/en/products/detail/w%C3%BCrth-elektronik/60900213421/2508447)
 
@@ -126,8 +126,8 @@ For detailed instructions on setting up and experimenting with the boltON module
 
 ## Report Defects & Get Support ##
 
-To report defects in the Open PCB/PCBA Prototypes projects, please create a new "Issue" in the "Issues" section of [open_pcb_prototypes](https://github.com/SiliconLabsSoftware/open-pcb-prototypes-staging) repo. Please reference the board, project, and and relevant hardware design files associated with the flaws, and reference line numbers. If you are proposing a fix, also include information on the proposed fix. Since these examples are provided as-is, there is no guarantee that these examples will be updated to fix these issues.
+To report defects in the Open PCB/PCBA Prototypes projects, please create a new "Issue" in the "Issues" section of [open_pcb_prototypes](https://github.com/SiliconLabsSoftware/open-pcb-prototypes) repo. Please reference the board, project, and relevant hardware design files associated with the flaws, and reference line numbers. If you are proposing a fix, also include information on the proposed fix. Since these examples are provided as-is, there is no guarantee that these examples will be updated to fix these issues.
 
-Questions and comments related to these examples should be made by creating a new "Issue" in the "Issues" section of [open_pcb_prototypes](https://github.com/SiliconLabsSoftware/open-pcb-prototypes-staging) repo.
+Questions and comments related to these examples should be made by creating a new "Issue" in the "Issues" section of [open_pcb_prototypes](https://github.com/SiliconLabsSoftware/open-pcb-prototypes) repo.
 
 ---
